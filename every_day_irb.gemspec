@@ -8,7 +8,7 @@ Gem::Specification.new do |gem|
   gem.summary       = "EveryDayIrb simplifies daily life in IRB."
   gem.description   = "EveryDayIrb simplifies daily life in IRB with commands like: ls, cat, rq, rrq, ld, reset!, ..."
   gem.authors       = ["Jan Lelis"]
-  gem.email         = ["mail@janlelis.de"]
+  gem.email         = ["hi@ruby.consulting"]
   gem.homepage      = "https://irb.tools"
   gem.license       = "MIT"
 
