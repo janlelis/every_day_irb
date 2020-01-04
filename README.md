@@ -1,4 +1,4 @@
-# Every day… IRB [![[version]](https://badge.fury.io/rb/every_day_irb.svg)](http://badge.fury.io/rb/every_day_irb)  [![[travis]](https://travis-ci.org/janlelis/every_day_irb.svg)](https://travis-ci.org/janlelis/every_day_irb)
+# Every day… IRB [![[version]](https://badge.fury.io/rb/every_day_irb.svg)](https://badge.fury.io/rb/every_day_irb)  [![[travis]](https://travis-ci.org/janlelis/every_day_irb.svg)](https://travis-ci.org/janlelis/every_day_irb)
 
 Provides utility methods useful in IRB, like a `rq` method for requiring libraries, or `ls` for showing the list of files of the current directory. Part of [Irbtools](https://irb.tools).
 
@@ -35,4 +35,4 @@ More info at the [Irbtools README](https://github.com/janlelis/irbtools#irbtools
 
 ## MIT License
 
-Copyright (C) 2010-2019 Jan Lelis <http://janlelis.com>. Released under the MIT license.
+Copyright (C) 2010-2020 Jan Lelis <https://janlelis.com>. Released under the MIT license.
