@@ -1,5 +1,9 @@
 ## CHANGELOG
 
+### 2.1.1
+
+- Loosen Ruby dependency to allow Ruby 3.0
+
 ### 2.1.0
 
 - Separate every_day_irb into its own git repository
