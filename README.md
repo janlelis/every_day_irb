@@ -1,4 +1,4 @@
-# Every day… IRB [![[version]](https://badge.fury.io/rb/every_day_irb.svg)](https://badge.fury.io/rb/every_day_irb)  [![[travis]](https://travis-ci.org/janlelis/every_day_irb.svg)](https://travis-ci.org/janlelis/every_day_irb)
+# Every day… IRB [![[version]](https://badge.fury.io/rb/every_day_irb.svg)](https://badge.fury.io/rb/every_day_irb)  ![Test](https://github.com/janlelis/every_day_irb/workflows/Test/badge.svg)
 
 Provides utility methods useful in IRB, like a `rq` method for requiring libraries, or `ls` for showing the list of files of the current directory. Part of [Irbtools](https://irb.tools).
 
