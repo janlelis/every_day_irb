@@ -76,6 +76,7 @@ module EveryDayIrb
         number_of_lines = context.instance_variable_get(:@line_no)
       end
     end
-    Reline::HISTORY.entries[-number_of_lines...-1]*"\n"
+
+    (Reline rescue Readline)::HISTORY.entries[-number_of_lines...-1]*"\n"
   end
 end
