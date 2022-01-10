@@ -35,4 +35,4 @@ More info at the [Irbtools README](https://github.com/janlelis/irbtools#irbtools
 
 ## MIT License
 
-Copyright (C) 2010-2020 Jan Lelis <https://janlelis.com>. Released under the MIT license.
+Copyright (C) 2010-2022 Jan Lelis <https://janlelis.com>. Released under the MIT license.
