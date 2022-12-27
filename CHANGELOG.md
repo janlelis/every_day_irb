@@ -1,6 +1,6 @@
 ## CHANGELOG
 
-### 2.2.0 (unreleased)
+### 2.2.0
 
 - Remove Readline-dependent `session_history`
 
