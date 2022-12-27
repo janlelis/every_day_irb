@@ -1,5 +1,9 @@
 ## CHANGELOG
 
+### 2.2.0 (unreleased)
+
+- Remove Readline-dependent `session_history`
+
 ### 2.1.1
 
 - Loosen Ruby dependency to allow Ruby 3.0

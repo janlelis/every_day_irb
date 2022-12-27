@@ -119,8 +119,4 @@ describe EveryDayIrb do
   describe '#reset!' do
     pending
   end
-
-  describe '#session_history' do
-    pending
-  end
 end

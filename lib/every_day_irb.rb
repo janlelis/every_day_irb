@@ -66,16 +66,4 @@ module EveryDayIrb
       exit
     end
   end
-
-  # returns the last lines
-  def session_history(number_of_lines = nil)
-    if !number_of_lines
-      if defined?(Ripl) && Ripl.started?
-        number_of_lines = Ripl.shell.line
-      else
-        number_of_lines = context.instance_variable_get(:@line_no)
-      end
-    end
-    Readline::HISTORY.entries[-number_of_lines...-1]*"\n"
-  end
 end

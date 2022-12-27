@@ -29,9 +29,8 @@ to get the following methods:
 - rerequire(lib)
 - clear
 - reset!
-- session_history(number_of_lines = nil)
 
-More info at the [Irbtools README](https://github.com/janlelis/irbtools#irbtools-methods) and in the [specs](https://github.com/janlelis/every_day_irb/blob/master/spec/every_day_irb_spec.rb).
+More info at the [Irbtools README](https://github.com/janlelis/irbtools#irbtools-methods) and in the [specs](https://github.com/janlelis/every_day_irb/blob/main/spec/every_day_irb_spec.rb).
 
 ## MIT License
 
