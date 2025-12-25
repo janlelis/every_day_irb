@@ -1,5 +1,10 @@
 ## CHANGELOG
 
+### 2.3.0
+
+- Relax Ruby requirement to allow Ruby 4.0
+- Add dependency to IRB gem
+
 ### 2.2.0
 
 - Remove Readline-dependent `session_history`

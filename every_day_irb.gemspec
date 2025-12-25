@@ -9,7 +9,7 @@ Gem::Specification.new do |gem|
   gem.description   = "EveryDayIrb simplifies daily life in IRB with commands like: ls, cat, rq, rrq, ld, reset!, ..."
   gem.authors       = ["Jan Lelis"]
   gem.email         = ["hi@ruby.consulting"]
-  gem.homepage      = "https://irb.tools"
+  gem.homepage      = "https://github.com/janlelis/every_day_irb"
   gem.license       = "MIT"
 
   gem.files         = Dir["{**/}{.*,*}"].select{ |path| File.file?(path) && path !~ /^pkg/ }
@@ -18,6 +18,7 @@ Gem::Specification.new do |gem|
   gem.require_paths = ["lib"]
   gem.metadata      = { "rubygems_mfa_required" => "true" }
 
-  gem.required_ruby_version = ">= 2.0", "< 4.0"
+  gem.required_ruby_version = ">= 2.0"
+  gem.add_dependency 'irb'
   gem.add_dependency 'cd', '~> 1.0'
 end
